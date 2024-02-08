@@ -1,4 +1,4 @@
-//A function along with itslexical environment
+//A function along with its lexical environment
 
 const x =100
 function closures(){

@@ -1,3 +1,4 @@
+'use strict'  // helps to maintain a proper syntax and it wont allow the undeclared variables 
 //what is prototype 
 //Is the one object which is inturn attached to the object that we will be creating giving us the access to the special methods
 let arr =["Ashwini","Kulkarni","Shreya","Desai"]
