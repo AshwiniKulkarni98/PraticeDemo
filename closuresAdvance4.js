@@ -7,4 +7,6 @@ function x(hello)
     }
    return y
 }
-x("hello")()
+x("hello")() 
+
+//interview video of the closures by Akshay Saini
